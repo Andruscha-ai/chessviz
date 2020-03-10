@@ -1,2 +1,2 @@
 all:
-	gcc -Wall -o tet main.c 
+	gcc -Wall -o main main.c 
